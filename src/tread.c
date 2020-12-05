@@ -15,7 +15,7 @@
 
 //define our "globals" for configuration purposes.
 //port to bind to
-#define PORT 8080
+#define PORT 8003
 #define MILLISECOND 9995
 
 struct ListenData {
