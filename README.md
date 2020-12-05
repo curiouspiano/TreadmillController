@@ -1,5 +1,7 @@
 # TreadmillController
 Raspberry pi server software for use in controlling the speed of a treadmill remotely.
+Currently used primarily in the project https://github.com/curiouspiano/TreadCraft
+However, this can be utilised for any other game where a mod could be created to monitor the player speed.
 
 ## Requirements
 - Any treadmill with a controller board model MC2100L
